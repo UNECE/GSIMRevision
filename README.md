@@ -1,6 +1,8 @@
-For GSIM revision 
+## GSIM revision 
 
-Resources
+Github repo for GSIM revision (2022) 
+
+### Resources
 * Current GSIM 1.2: https://statswiki.unece.org/display/clickablegsim/Clickable+GSIM+v1.2
 * New version of GSIM UML (in google docs)
   * Base Group: https://docs.google.com/document/d/1UaBbCHFe4opHWmNK4fjh0_luiGL99mM8E4D8JPfmdVw/edit
