@@ -28,7 +28,7 @@ Github repo for GSIM revision (2022)
 * Working version:
 
 ## GSIM Design Principles 
-* Latest version availble: 
+* Latest version availble: https://statswiki.unece.org/display/gsim/GSIM+v0.8?preview=%2F68781467%2F68714946%2FGSIM+Communication+0_8.docx
 * Working version:
 
 ## EA (to be genderated after model is finished)
