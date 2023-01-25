@@ -11,6 +11,9 @@ Github repo for GSIM revision (2022)
   * Structure Group: https://docs.google.com/document/d/1CyaH_OFiFEAB17I7hCTyIua6okNnrnvI/edit?usp=share_link&ouid=114335116280732994204&rtpof=true&sd=true
   * Concept Group: https://docs.google.com/document/d/19ENiGK_y9BYaGFhxfNoauY69XMq0EIxK/edit?usp=sharing&ouid=114335116280732994204&rtpof=true&sd=true
 * Change log for new version of GSIM (in google sheet): https://docs.google.com/spreadsheets/d/1IUqrYGwFT9Osn9vWLuMJeCqVWcdcSnl-/edit?usp=sharing&ouid=114335116280732994204&rtpof=true&sd=true
+* Clickable update
+  * Base Group: https://statswiki.unece.org/pages/viewpage.action?pageId=387940416 (red indicates changes from previous version)
+* GSIM meeting notes (2020-2022): https://docs.google.com/document/d/1DBUbq6S_sgyj2aycwZRNdYaxFjt2LSHv/edit
 * GSIM discussions from meeting notes (in Wiki) 
   * Base Group: https://statswiki.unece.org/pages/viewpage.action?pageId=256968879 
   * Business Group: https://statswiki.unece.org/pages/viewpage.action?pageId=282330848 
