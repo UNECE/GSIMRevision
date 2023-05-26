@@ -17,7 +17,7 @@ Concept Group | [Diagram (completed)](https://statswiki.unece.org/display/CGV/Co
 ## Documentation and materials
 ### User Guide
 * Latest version availabe: GSIM Specification v1.2 (from 2013): 
-* Working version: 
+* Working version: https://docs.google.com/document/d/1pYmOVfmXR2pQEqjCmI-5WVi2qgkjt1GJ/edit
 
 ### Communication Paper
 * Latest version availble (v1.2): https://statswiki.unece.org/display/gsim/GSIM+v1.2+Communication+Paper
